@@ -1,0 +1,5 @@
+- # SOBRE MIM
+- 👋 oi, eu sou @chrispinheiro08
+- 👀 meu email de contato é christopher.pinheiro@escola.pr.gov.br
+- 🌱  eu estou interessado em aprender a programar novas linguagens
+- 🏁 eu estou aprendendo recentemente a linguagem Java Script e Scratc
